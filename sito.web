@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Successo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Benvenuto su "Il Successo"</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mentalita.html">La Mentalità per il Successo</a></li>
+                <li><a href="testa.html">La Testa per il Successo</a></li>
+                <li><a href="stile.html">Lo Stile di Vita per il Successo</a></li>
+                <li><a href="comportamenti.html">I Comportamenti per il Successo</a></li>
+                <li><a href="tipo.html">Il Tipo di Successo</a></li>
+                <li><a href="sacrificio.html">Il Sacrificio per il Successo</a></li>
+                <li><a href="base.html">La Base del Successo</a></li>
+                <li><a href="risultati.html">I Primi Risultati del Successo</a></li>
+                <li><a href="desiderio.html">Il Desiderio del Successo</a></li>
+                <li><a href="tempo.html">Il Tempo del Successo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="intro">
+        <h2>Benvenuto nel percorso del successo</h2>
+        <p>Il successo non è un traguardo, ma un viaggio. Inizia oggi il tuo cammino verso una vita piena di realizzazioni. Esplora ogni aspetto del successo e preparati a trasformare la tua vita!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Il Successo</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Mentalità per il Successo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>La Mentalità per il Successo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mentalita.html">La Mentalità per il Successo</a></li>
+                <li><a href="testa.html">La Testa per il Successo</a></li>
+                <li><a href="stile.html">Lo Stile di Vita per il Successo</a></li>
+                <li><a href="comportamenti.html">I Comportamenti per il Successo</a></li>
+                <li><a href="tipo.html">Il Tipo di Successo</a></li>
+                <li><a href="sacrificio.html">Il Sacrificio per il Successo</a></li>
+                <li><a href="base.html">La Base del Successo</a></li>
+                <li><a href="risultati.html">I Primi Risultati del Successo</a></li>
+                <li><a href="desiderio.html">Il Desiderio del Successo</a></li>
+                <li><a href="tempo.html">Il Tempo del Successo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>La Mentalità per il Successo</h2>
+        <p>Per raggiungere il successo, prima di tutto, bisogna avere la mentalità giusta. La mentalità positiva, la perseveranza e la convinzione che ogni sfida è un'opportunità per crescere sono fondamentali.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Il Successo</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Testa per il Successo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>La Testa per il Successo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mentalita.html">La Mentalità per il Successo</a></li>
+                <li><a href="testa.html">La Testa per il Successo</a></li>
+                <li><a href="stile.html">Lo Stile di Vita per il Successo</a></li>
+                <li><a href="comportamenti.html">I Comportamenti per il Successo</a></li>
+                <li><a href="tipo.html">Il Tipo di Successo</a></li>
+                <li><a href="sacrificio.html">Il Sacrificio per il Successo</a></li>
+                <li><a href="base.html">La Base del Successo</a></li>
+                <li><a href="risultati.html">I Primi Risultati del Successo</a></li>
+                <li><a href="desiderio.html">Il Desiderio del Successo</a></li>
+                <li><a href="tempo.html">Il Tempo del Successo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>La Testa per il Successo</h2>
+        <p>Il successo nasce nella testa. Avere una mente focalizzata, pronta a imparare, a prendere decisioni rapide e a non arrendersi è il primo passo per realizzare qualsiasi obiettivo.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Il Successo</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+/* Reset di base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #111111; /* Nero profondo */
+    color: #dddddd; /* Grigio chiaro per il testo */
+    line-height: 1.6;
+}
+
+header {
+    background-color: #1a1a1a; /* Nero più chiaro */
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 2px solid #444;
+}
+
+header h1 {
+    color: #a0522d; /* Marrone elegante */
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin
