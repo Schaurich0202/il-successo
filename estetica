@@ -1,0 +1,95 @@
+.logo {
+  flex: 1;
+  text-align: left;
+}
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Chi siamo - I segreti del successo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top-header">
+    <div class="logo">
+      <h1>I segreti del successo</h1>
+    </div>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="chisiamo.html">Chi siamo</a></li>
+        <!-- aggiungi gli altri link -->
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content">
+    <section class="intro">
+      <h2>Chi siamo</h2>
+      <p>
+        “I segreti del successo” è una piattaforma nata con un solo obiettivo: guidarti verso un successo concreto, stabile e sicuro.  
+        Crediamo che il successo non sia un colpo di fortuna, ma una costruzione quotidiana basata su mentalità, sacrificio, disciplina e visione.
+      </p>
+      <p>
+        La nostra missione è offrirti contenuti, ispirazioni e strategie per aiutarti a raggiungere il tuo massimo potenziale – che tu voglia eccellere negli affari, nello sport, nella vita personale o nella crescita interiore.
+      </p>
+      <p>
+        Il successo non è un sogno: è un obiettivo. E noi siamo qui per aiutarti a raggiungerlo.
+      </p>
+    </section>
+
+    <section class="search-section">
+      <h3>Cerca tra i segreti del successo 🔍</h3>
+      <input type="text" placeholder="Cerca..." class="search-bar">
+      <ul class="search-tips">
+        <li>📌 Cerca "mentalità vincente"</li>
+        <li>📌 Cerca "disciplina quotidiana"</li>
+        <li>📌 Cerca "strategie per il successo"</li>
+        <li>📌 Cerca "abitudini vincenti"</li>
+        <li>📌 Cerca "successo duraturo"</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  color: #1a1a1a;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.intro h2 {
+  font-size: 28px;
+  color: #0d0d0d;
+  margin-bottom: 10px;
+}
+
+.search-section {
+  margin-top: 50px;
+  background-color: #f7f7f7;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.search-bar {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.search-tips {
+  list-style: none;
+  padding-left: 0;
+}
+
+.search-tips li {
+  margin: 8px 0;
+  color: #333;
+}
